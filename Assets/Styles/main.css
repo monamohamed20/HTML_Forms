@@ -1,0 +1,49 @@
+header{
+  margin: 5px;
+  padding: 5px;
+  color: #d69c9c;
+}
+
+
+h1{
+  color: red;
+  font-size: 90px;
+  text-align: center;
+  padding: 2px;
+  margin: 4px;
+  }
+  hr{
+    border: 1px solid #eee;
+  }
+  section{
+    padding: 2px;
+    margin: 2px;
+  }
+h2{
+  color: green;
+  padding: 3pxx;
+  text-decoration: underline;
+}
+p{
+  color: rgb(86, 206, 246);
+  font-size: 40px;
+  padding: 2px;
+  margin: 4px;
+}
+.rights{
+  color: #c70909;
+  padding: 2px;
+  margin: 2px;
+  text-align: center;
+}
+h3{
+  color: #000;
+  padding: 2px;
+  font-size: 30px;
+  margin: 4px;
+}
+h4{
+  color: blue;
+ padding: 5px;
+  margin: 4px;
+}
